@@ -9,7 +9,6 @@ public class MovieSummary {
     private String overview;
 	public MovieSummary() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 	public MovieSummary(List<Movie> movie, String title, String overview) {
 		super();
