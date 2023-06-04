@@ -13,7 +13,7 @@ public class MovieCatalogServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MovieCatalogServiceApplication.class, args);
-		System.out.println("Modifying for test commit and commiting from Git Bash command");
+		System.out.println("Modifying for test on Brach1-Roy commit and commiting from Git Bash command");
 	}
 
 	@Bean
